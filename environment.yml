@@ -1,0 +1,9 @@
+name: visuals
+channels:
+  - defaults
+dependencies:
+  - conda
+  - pandas
+  - plotly
+  - numpy
+prefix: /opt/miniconda3
