@@ -2,7 +2,7 @@ name: visuals
 channels:
   - defaults
 dependencies:
-  - conda
+  - jenkspy
   - pandas
   - plotly
   - numpy
